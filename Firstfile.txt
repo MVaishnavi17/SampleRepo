@@ -1,1 +1,1 @@
-Created a first file.
+Created a first file and added it into a new repo.
